@@ -6,4 +6,8 @@ Below is the architecture description for the same.
 
 <img width="679" alt="siamese-lstm" src="https://user-images.githubusercontent.com/34228896/42486558-45490070-841a-11e8-9cf3-61cdea15de1d.png">
 
+# Prerequisite
+# Paper, Articles
+http://www.mit.edu/%7Ejonasm/info/MuellerThyagarajan_AAAI16.pdf
+
 
